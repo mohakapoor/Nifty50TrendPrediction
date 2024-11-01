@@ -1,6 +1,3 @@
-# Updating the README.md content based on the new input
-
-updated_readme_content = """
 # Nifty 50 Trend Prediction Using Machine Learning
 
 This project involves predicting the Nifty 50 stock market index trends using historical data obtained from Yahoo Finance. The machine learning model used is a Random Forest Classifier, with feature engineering applied to create rolling averages and trend indicators. The aim of the project is to predict whether the Nifty 50 index will rise or fall the following day.
